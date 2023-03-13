@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vestra444
-- 👀 I’m interested in ai 
-- 🌱 I’m currently learning front-end dev
+- 👀 I’m interested in ai (currently finishing some kyu in codewars)
+- 🌱 I’m currently learning how to program with JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me jesushuazo101@gmail.com
 
